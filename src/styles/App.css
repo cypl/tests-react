@@ -2,6 +2,7 @@ body{
   padding:20px;
   margin:0;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #fff;
 }
 .wrapper_parent{
   width:600px;
